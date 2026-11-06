@@ -11,6 +11,8 @@ A real-time musical note recognition application featuring a graphical user inte
 - **Virtual Piano Keyboard:** Highlights detected notes across a 5-octave span (C2–B6).
 - **Multi-Device Support:** Automatically lists and lets you switch between available microphone input devices.
 
+![An example](./docs/screenshot.png)
+
 ---
 
 ## Prerequisites & Dependencies
